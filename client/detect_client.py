@@ -5,7 +5,7 @@ import sys
 from optparse import OptionParser
 
 
-service_host = 'ec2-54-148-81-107.us-west-2.compute.amazonaws.com'
+service_host = 'your host here'
 service_port = 4273
 
 
